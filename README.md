@@ -12,4 +12,5 @@ ollama serve
 ```
 once you're serving your ollama service you can try and run it
 <img width="549" height="396" alt="imagen" src="https://github.com/user-attachments/assets/13cc70c0-13c6-4644-8ee8-b3548b59a81e" />
+
 you should see this. once you see the Amadeus logo you can start prompting to the AI
