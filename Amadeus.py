@@ -47,7 +47,7 @@ class Amadeusmodel:
         print('='*50 + '\n' + 'Amadeus' + '\n' + '='*50)
         if not self.preloadModel():
             print("Cargando modelo")
-        ruta_imagen = "~/Imágenes/Amadeusnf.png"
+        ruta_imagen = "./Amadeusnf.png"
         subprocess.run(f'kitty +kitten icat --align left {ruta_imagen} ', shell=True, check=True)
         Continuar = True
 
