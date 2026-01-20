@@ -1,7 +1,13 @@
 This is a AI that runs only in kitty's terminal
 
 # Dependancies
-ollama, sys and subprocess 
+You must have installed in pip
+## ollama
+pip install ollama
+## sys
+pip install sys (if you don't have it already)
+## subprocess
+pip install subprocess (if you don't have it already)
 
 # How to execute
 first to execute this script you must have an ollama llm installed to install it on linux you must do
