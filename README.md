@@ -2,6 +2,7 @@ This is a AI that runs only in kitty's terminal
 
 # Dependancies
 You must have installed in pip
+## You must run this in the kitty terminal
 ## ollama
 ```pip install ollama```
 ## sys
